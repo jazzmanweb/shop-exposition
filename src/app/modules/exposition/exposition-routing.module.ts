@@ -27,6 +27,10 @@ const routes: Routes = [
                 component: ItemComponent,
                 children: [
                     {
+                        path: '',
+                        component: ItemComponent,
+                    },
+                    {
                         path: 'details',
                         component: DetailsComponent
                     }

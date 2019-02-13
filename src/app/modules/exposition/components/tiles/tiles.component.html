@@ -1,1 +1,8 @@
-Tiles
+<mat-grid-list cols="4" rowHeight="2:1">
+    <mat-grid-tile *ngFor="let line of linesList"
+    >
+        <a [routerLink]="'../item/' + line?.id">
+            {{ line?.producer }} / {{ line?.name }} / {{ line?.image }}
+        </a>
+    </mat-grid-tile>
+</mat-grid-list>
