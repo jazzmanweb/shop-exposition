@@ -46,7 +46,7 @@
               "vendorChunk": false,
               "buildOptimizer": true,
               "baseHref": "/shop-exposition/",
-              "deployUrl": "https://jazzmanweb.github.io/shop-expansion/",
+              "deployUrl": "https://jazzmanweb.github.io/shop-exposition/",
               "budgets": [
                 {
                   "type": "initial",
