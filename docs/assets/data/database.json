@@ -1,0 +1,562 @@
+[
+    {
+        "id": 1,
+        "producer": "DeLonghi",
+        "name": "Destina",
+        "image": "obraz 1",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "producer": "DeLonghi",
+        "name": "Icona",
+        "image": "obraz 2",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "producer": "Kenwood",
+        "name": "Argento",
+        "image": "obraz 3",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "producer": "DeLonghi",
+        "name": "Argento Flora",
+        "image": "obraz 4",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "producer": "Kenwood",
+        "name": "Brillante",
+        "image": "obraz 1",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "producer": "Kenwood",
+        "name": "Icona Elements",
+        "image": "obraz 2",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "producer": "DeLonghi",
+        "name": "Icona Vintage",
+        "image": "obraz 3",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "producer": "DeLonghi",
+        "name": "kMIx",
+        "image": "obraz 4",
+        "collection": [
+            {
+                "title": "Czajnik elektryczny",
+                "symbol": "KBI2001.BL",
+                "availability": "Dostępny 50 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            },
+            {
+                "title": "Toster",
+                "symbol": "CTI2103.BL",
+                "availability": "Dostępny 10 szt w magazynie",
+                "colors": [
+                    {
+                        "name": "Czerwony",
+                        "color": "#FF0000",
+                        "image": "obraz"
+                    },
+                    {
+                        "name": "Turkusowy",
+                        "color": "#008080",
+                        "image": "obraz"
+                    }
+                ],
+                "details": {
+                    "moc": "2000 W",
+                    "pojemnosc": "1.7 L",
+                    "kolor": "srebrny",
+                    "waga": "1.3 kg",
+                    "wymiary": "18 x 22.5 x 25 cm",
+                    "other": [
+                        "Obrotowa podstawa",
+                        "Kabeli zawijany na podstawie",
+                        "Nóżki antypoślizgowe",
+                        "Wyjmowany filtr",
+                        "Zabezpieczenie przed uruchomieniem bez wody"
+                    ]
+                }
+            }
+        ]
+    }
+]
