@@ -45,6 +45,8 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
+              "baseHref": "/shop-exposition/",
+              "deployUrl": "https://jazzmanweb.github.io/shop-expansion",
               "budgets": [
                 {
                   "type": "initial",
